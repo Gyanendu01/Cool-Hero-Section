@@ -3,7 +3,7 @@
 This project showcases a well-designed and visually appealing hero section built using HTML and CSS. The hero section is a crucial element of modern web design, serving as the first impression and introduction to a website. This implementation aims to provide a solid foundation for creating an engaging and effective hero section for your website.
 
 ## Preview
-Project Link: [https://github.com/gyanendu01/cool-hero-section](https://github.com/gyanendu01/cool-hero-section)
+Project Link: [https://github.com/gyanendu01/cool-hero-section](https://gyanendu01.github.io/Cool-Hero-Section/)
 
 ## Features
 
